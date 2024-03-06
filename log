@@ -1,0 +1,4 @@
+20240229 909   0     0     0Godswill C:\Users\Godswill\Desktop\GIS FINAL\DEM = IDW(C:\Users\Godswill\Desktop\GIS FINAL\COMBINED_SPOT_HEIGHTS,  'z', #, 2.0, SAMPLE, 1
+20240229 923   0     1     0Godswill C:\Users\Godswill\Desktop\GIS FINAL\dem = IDW(C:\Users\Godswill\Desktop\GIS FINAL\COMBINED_SPOT_HEIGHTS,  'z', #, 2.0, SAMPLE, 1
+20240229 930   0     0     0Godswill C:\Users\Godswill\Desktop\GIS FINAL\hillshade_dsm = HILLSHADE(C:\Users\Godswill\Desktop\GIS FINAL\dsm,  315.0, 45.0, SHADE, 1.0)
+20240229 938   0     0     0Godswill C:\Users\Godswill\Desktop\GIS FINAL\hillshade_dtm = HILLSHADE(C:\Users\Godswill\Desktop\GIS FINAL\dtm_raster,  315.0, 45.0, SHAD
