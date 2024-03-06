@@ -1,2 +1,3 @@
 # 3D-GIS
 A school project to create DEM, DTM, and DSM of the Faculty of Science UNILAG, using ArcMap and ArcScene 
+Check word file 'STEPS TO 3D REPRESENTATION OF STUDY AREA' for full report 
